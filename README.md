@@ -1,1 +1,1 @@
-# DOTS(data oriented tech stack, DOTS)面向数据编程
+# ECS(data oriented tech stack, DOTS)面向数据编程
